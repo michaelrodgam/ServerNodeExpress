@@ -15,3 +15,22 @@ npm install express --save
 
 //run node server
 npm start
+
+
+----git create and push----
+git init
+git add .
+git status
+git commit -m "message"
+git remote add origin 'your_url_name'
+git push -u origin master
+
+
+---git pull---
+git pull 'remote_name' 'branch_name'
+
+---git clone---
+git clone 'your_url_name'
+
+---git new branch---
+git checkout -b 'branch_name'
