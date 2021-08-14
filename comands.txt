@@ -1,0 +1,17 @@
+//gobally
+npm install -g nodemon
+
+//local
+npm install --save-dev nodemon
+
+//run nodemon
+npx nodemon
+
+//make package.json file
+npm init
+
+//install express
+npm install express --save
+
+//run node server
+npm start
